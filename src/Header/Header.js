@@ -6,8 +6,7 @@ class Header extends Component {
     return (
       <div className="Header">
         <h1>NetSuite Explorer</h1>
-        <h4>Find the useful help tips without digging</h4>
-        <h4>through NetSuite Help Documentation.</h4>
+        <h4>Find the useful help tips without digging through NetSuite Help Documentation.</h4>
       </div>
     );
   }
